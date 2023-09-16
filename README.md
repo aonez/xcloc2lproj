@@ -15,4 +15,6 @@ Options:
   -q                     Be quiet
 ```
 
-This project is made using Swift and under the BSD or GPL licenses. Copyright © aone. All rights reserved.
+This project was made for in-house use, so it might be messy. Enhance it at your will, pull request are very welcome.
+
+All the code is Swift and under the BSD or GPL licenses. Copyright © aone. All rights reserved.
